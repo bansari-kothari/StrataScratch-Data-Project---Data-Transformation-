@@ -8,3 +8,9 @@ The contents of the CSV file are expected in this format:
 ![image](https://user-images.githubusercontent.com/67941630/216726002-ec7e919c-45ce-4470-9b9c-d3fced662d73.png)
 
 ![image](https://user-images.githubusercontent.com/67941630/216726182-eeccc71e-0685-400f-9120-47ebe28960e7.png)
+
+Python code file - main.py
+Input JSON File - case.json
+Output CSV Files - 1. CuratedOfferOptions.csv   
+                   2. DynamicPriceOption   
+                   3. DynamicPriceRange
